@@ -7,3 +7,9 @@ inputs:
     type: text
     name: project_name
     default: project-name
+    global: true
+  - label: "GroupId"
+    type: text
+    name: "group_id"
+    default: "com.example"
+    global: true
