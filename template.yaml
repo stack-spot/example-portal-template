@@ -30,12 +30,11 @@ picture: "https://symbols.getvecta.com/stencil_96/69_spring-framework-icon.d5638
 # Templates podem perceber a qualquer category
 category: backend
 
-# Link para as releases notes da stack
+# Lista de compativeis
 # todo: explicar esse campo com mais detalhes
-compatibility: #path or url
-# Especificar um arquivo .md que explique em detalhes o objetivo da stack
-# todo: explicar melhor oque colocar nesse arquivo.
-# por padrão o valor é about.md
+compatibility:
+  - spring
+  - kotlin
 
 # Especificar um arquivo .md que explique o about do template
 # todo: explicar melhor oque colocar nesse arquivo.
