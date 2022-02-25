@@ -53,4 +53,8 @@ useCase: useCase.md
 # por padrão o valor é implementation.md
 implementation: implementation.md
 
+# tecnologies que o template utiliza
+# A lista completa das tecnologias disponiveis que podem ser cadastradas estao disponiveis na Documentacao
+technologies: [ "Java", "SpringBoot" ]
+
 
