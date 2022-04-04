@@ -19,7 +19,7 @@ inputs:
     global: true
 
 # Nome com formatação livre que será exibido no portal.
-displayName: Spring + Kotlin
+display-name: Spring + Kotlin
 
 # caso a picture esteja fora do repo colocar uma url externa
 # caso a picture esteja no repo fornecer o path
@@ -42,7 +42,7 @@ about: about.md
 usage: usage.md
 # Especificar um arquivo .md que explique useCase do template
 # por padrão o valor é usage.md
-useCase: useCase.md
+use-case: useCase.md
 # Especificar um arquivo .md que explique a implementation do template
 # por padrão o valor é implementation.md
 implementation: implementation.md
